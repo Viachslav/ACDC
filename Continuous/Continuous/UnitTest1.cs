@@ -40,6 +40,10 @@ namespace Continuous
             Action action = () => WorkingMethod.CheckCompoundInterest(a, b, c);
             Assert.Throws<ArgumentOutOfRangeException>(action);
         }
+
         // Testing again
+
+
+
     }
 }
