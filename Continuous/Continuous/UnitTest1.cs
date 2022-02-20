@@ -41,9 +41,7 @@ namespace Continuous
             Assert.Throws<ArgumentOutOfRangeException>(action);
         }
 
-        // Hey !!!
-
-  
+        // Oki doki
 
     }
 }
